@@ -38,7 +38,7 @@ void StageScene::Update()
 			return true;
 		}
 		return false;
-		});
+	});
 
 	
 
